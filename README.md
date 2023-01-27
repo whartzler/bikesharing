@@ -20,3 +20,5 @@ We could compare prices of when to rent the bikes in Manhattan.  Since there are
 
 ## Docs 
 Tableau Story: https://public.tableau.com/app/profile/warren.hartzler5043/viz/NYCCitiBikeAnalysis_16748398165410/NYCCitibikeAnalysis?publish=yes
+
+NYC_CitiBike_challenge - Python ETL process of converting tripduration to datetime format
